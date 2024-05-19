@@ -28,3 +28,5 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+Please subscribe to our [Free Software email list](https://www.masscollabs.xyz/mailman/listinfo/freesoftware_masscollabs.xyz) for more information and to join discussions.
